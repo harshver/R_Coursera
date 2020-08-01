@@ -1,5 +1,5 @@
 myfunction <- function() {
-  x <- floor(rnorm(100) %% 10);
+  x <- floor(rnorm(1000) %% 10);
   mean(x)
 }
 

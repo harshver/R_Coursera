@@ -1,0 +1,7 @@
+mm <- matrix(1:6, nrow=2, ncol=3)
+print(mm)
+m <- matrix(1:6, nrow=3, ncol=2)
+print(m)
+print(dim(m))
+print(dim(mm))
+rm(list=ls())

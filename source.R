@@ -1,4 +1,3 @@
-source("matrix.R")
-source("Mean.R")
-source("temp.R")
-print(aa+bb+2)
+setwd("/home/harsh/Desktop")
+sqcub <- read_excel("sqcub.xlsx")
+setwd("/home/harsh/Desktop/R_Programs/R_Coursera")
